@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: local
+pool: TedVo Pipelines
 
 steps:
 - task: NodeTool@0
